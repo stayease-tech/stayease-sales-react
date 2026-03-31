@@ -25,6 +25,12 @@ A React-based sales dashboard for StayEase to manage leads, resident allocation,
   - Edit agreement details
   - Delete agreements
   - Download agreements as PDF
+ 
+- **Raise Expense**
+  - Raise expenses on behalf of others
+  - Add expense details
+  - Upload receipts
+  - Submit for approval
 
 ## 🛠️ Technology Stack
 
